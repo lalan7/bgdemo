@@ -62,9 +62,6 @@
             <li>Basic</li>
           </ol>
           <h1>Welcome to an OpenShift Application! Created by Openshift-team</h1>
-          <p>The purpose of this application is to demonstrate several interesting features about OpenShift. We hope you enjoy it!
-          <h2>For more about the creator click on the link below</h2><a href="https://jatanmalde.wordpress.com/">here</a><br>
-          For more about the creator click on the link below<a href="https://jatanmalde.github.io/">here</a></p>
         </div>
       </div>
       <div class="row">
@@ -92,7 +89,7 @@
         <div class="col-md-6 col-md-offset-3">
           <h2>Application Example</h2>
           <p>
-            <img src="redrose.jpeg">
+            <img src="container.jpeg">
           </p>
         </div>
       </div>
