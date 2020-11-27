@@ -61,7 +61,7 @@
             <li><a href="#">Home</a></li>
             <li>Basic</li>
           </ol>
-          <h1>Welcome to an OpenShift Application! Created by Openshift-team</h1>
+          <h1>Welcome to an OpenShift Application!</h1>
         </div>
       </div>
       <div class="row">
